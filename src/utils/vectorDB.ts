@@ -1,0 +1,1 @@
+vectorDB.ts → Handles Pinecone Operations

@@ -1,0 +1,1 @@
+api for storing resume in vector database

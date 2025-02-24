@@ -1,0 +1,1 @@
+ResumeCard.tsx  → Candidate Profile Display
